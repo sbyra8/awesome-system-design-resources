@@ -10,6 +10,7 @@ This repository contains resources to learn System Design concepts and prepare f
 - [Scalability](https://newsletter.ashishps.com/p/scalability)
 - [Latency vs Throughput](https://aws.amazon.com/compare/the-difference-between-throughput-and-latency/)
 - [CAP Theorem](https://www.bmc.com/blogs/cap-theorem/)
+    -  [Medium] (https://medium.com/towards-data-science/cap-theorem-and-distributed-database-management-systems-5c2be977950e)
 - [ACID Transactions](https://redis.com/glossary/acid-transactions/)
 - [Consistent Hashing](https://highscalability.com/consistent-hashing-algorithm/)
 - [Rate Limiting](https://www.imperva.com/learn/application-security/rate-limiting/)
