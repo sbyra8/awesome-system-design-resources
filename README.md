@@ -12,6 +12,7 @@ This repository contains resources to learn System Design concepts and prepare f
 - [CAP Theorem](https://www.bmc.com/blogs/cap-theorem/)
     -  [Medium] (https://medium.com/towards-data-science/cap-theorem-and-distributed-database-management-systems-5c2be977950e)
 - [ACID Transactions](https://redis.com/glossary/acid-transactions/)
+    -  (https://www.freecodecamp.org/news/acid-databases-explained)
 - [Consistent Hashing](https://highscalability.com/consistent-hashing-algorithm/)
 - [Rate Limiting](https://www.imperva.com/learn/application-security/rate-limiting/)
 - [API Design](https://abdulrwahab.medium.com/api-architecture-best-practices-for-designing-rest-apis-bf907025f5f)
